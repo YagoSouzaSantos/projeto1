@@ -26,7 +26,7 @@ A aplicação básica simula um cartão de ponto eletrônico dividido em duas te
 5. Inicie o projeto em `http://127.0.0.1:8080` (talvez seu computador acabe utilizando outra porta, basta conferir no terminal assim que utilizar o comando `http-server`.
 
 # Tecnologias utilizadas
-Este projeto utiliza tecnologias como **HTML**, **CSS** e **TypeScript** para estruturar, estilizar e adicionar interatividade a página.\ 
+Este projeto utiliza tecnologias como **HTML**, **CSS** e **TypeScript** para estruturar, estilizar e adicionar interatividade a página.\
 O TypeScript, uma versão tipada do JavaScript, permite um desenvolvimento menos propenso a erros.\
 A ferramenta **http-server** é empregada para servir os arquivos localmente, facilitando o desenvolvimento e os testes, sem ela não poderíamos navegar entre as páginas de maneira eficaz, além de facilitar a estruturação do projeto pois podemos quebrar a aplicação em diversas páginas que interagem entre si. \
 O projeto faz uso de arquivos **JSON** para simular um banco de dados local, permitindo a consulta de dados de forma simplificada já que não possuímos um backend real.
