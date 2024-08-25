@@ -25,6 +25,12 @@ A aplicação básica simula um cartão de ponto eletrônico dividido em duas te
 ```http-server``` ou também pode utilizar ```npx http-server```
 5. Inicie o projeto em `http://127.0.0.1:8080` (talvez seu computador acabe utilizando outra porta, basta conferir no terminal assim que utilizar o comando `http-server`.
 
+# Como testar
+1. na página inicial. Clique no botão **Bater cartão de ponto**. O sistema irá redirecionar para a lista de colaboradores da Empresa.
+Selecione um colaborador e o sistema irá solicitar a senha do usuário. Todos os usuários possuem a senha `123456`. Digite a senha e clique no botão **Enviar**.
+
+O sistema irá validar a senha do colaborador e retornar os dados em tela.
+
 # Tecnologias utilizadas
 Este projeto utiliza tecnologias como **HTML**, **CSS** e **TypeScript** para estruturar, estilizar e adicionar interatividade a página.\
 O TypeScript, uma versão tipada do JavaScript, permite um desenvolvimento menos propenso a erros.\
