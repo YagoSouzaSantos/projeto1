@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colaboradores</title>
+    <link rel="stylesheet" href="collaborators.css">
+</head>
+
+<body>
+    <div class="container">
+        <span><img class="icon-system" src="/assets/images/icon-system.png"></span>
+        <h2>Colaboradores</h2>
+
+        <div id="collaborators-list" class="collaborators-list"></div>
+
+        <a href="/">
+            <button>Voltar para a Página Inicial</button>
+        </a>
+    </div>
+
+    <div id="password-modal" class="modal">
+        <div class="modal-content">
+            <span id="close-modal" class="close">&times;</span>
+            <h2 id="modal-title">Digite sua senha</h2>
+            <form id="password-form">
+                <label for="password">Senha:</label>
+                <input type="password" id="password" name="password" required>
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+    </div>
+
+    <div id="snackbar"></div>
+
+    <script  type="module" src="/dist/app/pages/collaborators/collaborators-script.js"></script>
+</body>
+
+</html>

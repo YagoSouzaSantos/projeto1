@@ -1,0 +1,7 @@
+- Necessário para criar servidor local e as rotas funcionarem normalmente
+
+npm install -g http-server
+
+para iniciar o projeto é Necessário rodar o comando abaixo:
+
+http-server

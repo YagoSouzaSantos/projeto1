@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nome": "João da Silva",
+        "imagem": "https://img.freepik.com/fotos-gratis/retrato-de-empresario-otimista-em-formalwear_1262-3600.jpg?t=st=1724529894~exp=1724533494~hmac=4a02269b4f107e791dc18385be8d81b14e0692aeba8acd40c2d4189c6628f9a8&w=1380",
+        "admissao": "2022-01-15",
+        "senha": "123456"
+    },
+    {
+        "id": 2,
+        "nome": "Maria Oliveira",
+        "imagem": "https://img.freepik.com/fotos-gratis/menina-morena-linda-confiante-olhando-na-camera-sorrindo-sobre-parede-branca_176420-565.jpg?t=st=1724530573~exp=1724534173~hmac=c18b89c3ef4a6c43ed37eb00dc843ab0612ddb95c0ac8b6716c8f6c6cd3c45bd&w=1380",
+        "admissao": "2021-06-10",
+        "senha": "123456"
+    },
+    {
+        "id": 3,
+        "nome": "Carlos Souza",
+        "imagem": "https://img.freepik.com/fotos-gratis/close-up-retrato-de-sorriso-amigavel-homem-idoso_1262-1729.jpg?t=st=1724530479~exp=1724534079~hmac=0ff39feca74f9465c0ab6a7c43c58d073e6e21983d116522f53d4186aa06c493&w=1380",
+        "admissao": "2023-03-22",
+        "senha": "123456"
+    },
+    {
+        "id": 4,
+        "nome": "Ana Costa",
+        "imagem": "https://img.freepik.com/fotos-gratis/mulher-worldface-asiatica-em-um-fundo-branco_53876-23487.jpg?t=st=1724530619~exp=1724534219~hmac=ade79e6029f170ed5c0e21179d1f8d67659747b664b57898c80864fa98dd0146&w=1380",
+        "admissao": "2020-11-05",
+        "senha": "123456"
+    }
+]
